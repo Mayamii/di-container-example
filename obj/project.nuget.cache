@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7ETgz+3U6XYdQW2ulzdW4qrDfH43GWilHO8KE6QkHWLn9WP/2J5vegh2sTqUtHhNUAytwLLz/rEa1Bb4DSWvOA==",
+  "success": true,
+  "projectFilePath": "C:\\_dev\\consoleapp\\consoleapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\3438\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0-rc.2.23479.6\\microsoft.extensions.dependencyinjection.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\3438\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0-rc.2.23479.6\\microsoft.extensions.dependencyinjection.abstractions.8.0.0-rc.2.23479.6.nupkg.sha512"
+  ],
+  "logs": []
+}
